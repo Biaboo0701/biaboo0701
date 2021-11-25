@@ -29,5 +29,5 @@
 <a href = "mailto:biaboo2015@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-9146FF?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bianda-woobie-saint-aubin-destin-814213190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/biaboo0701/biaboo0701/blob/output/github-contribution-grid-snake.svg)
 </div>
