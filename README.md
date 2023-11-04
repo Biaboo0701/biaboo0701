@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Bianda Destin
 
 - 🌱 Formada em Administração
+- 🌱 Graduanda em Engenharia Informática
 - 🌱 Estudando Front-End: HTML, CSS, JAVASCRIPT
-- 🌱 Estudando Back-End: Mongo, SQLITE, API REST e NODE JS
+- 🌱 Estudando Back-End: Mongo, SQLITE, API REST e C#
 - 👯 Gosto de trabalhar em equipe
 - 😍 Amo emojis
 
