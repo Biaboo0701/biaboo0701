@@ -1,9 +1,8 @@
 ### Olá! Eu sou a Bianda Destin
 
+- 🚀 Software Engineer (.NET, C#,SQL)
 - 🌱 Formada em Administração
-- 🌱 Graduanda em Engenharia Informática
-- 🌱 Estudando Front-End: HTML, CSS, JAVASCRIPT
-- 🌱 Estudando Back-End: Mongo, SQLITE, API REST e C#
+- 🌱 Pós-Graduanda em Engenharia Informática com Metodologias Àgeis
 - 👯 Gosto de trabalhar em equipe
 - 😍 Amo emojis
 
