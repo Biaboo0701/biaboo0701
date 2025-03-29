@@ -18,11 +18,11 @@
   <img align="center" alt="Bia-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-MongoDB" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Bia-SQLITE" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_GtGgyicL.png">
-  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/en/image_maker/338224/complete?cd=Yhc6Vq1I44">
 </div>
 ##
-  
+
+
+https://picrew.me/en/image_maker/338224/complete?cd=wyTG7J34wm
 <div> 
 <a href="https://www.instagram.com/biaboocool/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:biaboo2015@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-9146FF?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
