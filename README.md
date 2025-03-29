@@ -2,7 +2,7 @@
 
 - 🚀 Software Engineer (.NET, C#,SQL)
 - 🌱 Formada em Administração
-- 🌱 Pós-Graduanda em Engenharia Informática com Metodologias Àgeis
+- 🌱 Pós-Graduanda em Engenharia de Software com Metodologias Àgeis
 - 👯 Gosto de trabalhar em equipe
 - 😍 Amo emojis
 
