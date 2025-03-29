@@ -13,14 +13,13 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bia-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bia-C#" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Bia-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bia-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-MongoDB" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Bia-SQLITE" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bia-NodeJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Bia-C#" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_GtGgyicL.png">
+  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/en/image_maker/338224/complete?cd=Yhc6Vq1I44">
 </div>
 ##
   
