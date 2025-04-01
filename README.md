@@ -22,7 +22,6 @@
 ##
 
 
-https://picrew.me/en/image_maker/338224/complete?cd=wyTG7J34wm
 <div> 
 <a href="https://www.instagram.com/biaboocool/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:biaboo2015@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-9146FF?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
